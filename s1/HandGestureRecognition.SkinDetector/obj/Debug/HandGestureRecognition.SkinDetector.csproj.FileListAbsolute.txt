@@ -1,0 +1,45 @@
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition.SkinDetector\obj\Debug\ResolveAssemblyReference.cache
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition.SkinDetector\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition.SkinDetector\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\prashant\face+hand\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\prashant\face+hand\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\prashant\face+hand\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+D:\prashant\face+hand\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+D:\prashant\face+hand\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+D:\prashant\face+hand\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\prashant\face+hand\s1\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\prashant\face+hand\s1\HandGestureRecognition.SkinDetector\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\prashant\face+hand\s1\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.CV.dll
+D:\prashant\face+hand\s1\HandGestureRecognition.SkinDetector\bin\Debug\Emgu.Util.dll
+D:\prashant\face+hand\s1\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.dll
+D:\prashant\face+hand\s1\HandGestureRecognition.SkinDetector\obj\Debug\HandGestureRecognition.SkinDetector.pdb

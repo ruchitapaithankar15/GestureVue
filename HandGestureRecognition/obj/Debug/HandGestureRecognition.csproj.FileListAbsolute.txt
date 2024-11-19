@@ -1,0 +1,283 @@
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\M2U00251.MPG
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\M2U00252.MPG
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\M2U00253.MPG
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\zlib.net.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\ZedGraph.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.xml
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.CV.UI.xml
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\Emgu.Util.xml
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\ZedGraph.xml
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\Debug\ResolveAssemblyReference.cache
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\Debug\HandGestureRecognition.Form1.resources
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\Debug\HandGestureRecognition.Properties.Resources.resources
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\Debug\ResGen.read.1.tlog
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\Debug\ResGen.write.1.tlog
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+D:\Luca\Computer Vision\Emgu CV Projects\HandGestureRecognition\HandGestureRecognition\bin\Debug\cvextern.dll
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\bin\Debug\cvextern.dll
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\obj\Debug\ResolveAssemblyReference.cache
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.Form1.resources
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.Properties.Resources.resources
+F:\Augmented_Reality\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\cvextern.dll
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\ResolveAssemblyReference.cache
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.Form1.resources
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.Properties.Resources.resources
+F:\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.Form1.resources
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.Properties.Resources.resources
+D:\Project_2011-2012\Gesture Recognition\Augmented_Reality_Stage1\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Documents and Settings\Sandesh\Desktop\rtest12\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Documents and Settings\Sandesh\Desktop\rtest12\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+C:\Documents and Settings\Sandesh\Desktop\rtest12\Augmented_Reality_Stage1\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.Form1.resources
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+C:\Documents and Settings\Sandesh\Desktop\rtest12\AugmentedReality\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+D:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+D:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\cvextern.dll
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\ResolveAssemblyReference.cache
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.Form1.resources
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.Properties.Resources.resources
+E:\Project_2011-2012\Gesture Recognition\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\Interop.WMPLib.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\AxInterop.WMPLib.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.ResolveComReference.cache
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.Form1.resources
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.Properties.Resources.resources
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\cvextern.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\ZedGraph.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\ZedGraph.xml
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\Interop.WMPLib.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\AxInterop.WMPLib.dll
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+E:\Project_2015-2016\Vernika\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.Main.resources
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\cvextern.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\ZedGraph.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\ZedGraph.xml
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\Interop.WMPLib.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\bin\Debug\AxInterop.WMPLib.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\Interop.WMPLib.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\AxInterop.WMPLib.dll
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.ResolveComReference.cache
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.Form1.resources
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.Main.resources
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.Properties.Resources.resources
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.Webcam.resources
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+E:\Project 2016_2017\Face_Gesture\AugmentedReality_Full_Working\HandGestureRecognition\obj\Debug\HandGestureRecognition.LOAD.resources
+D:\prashant\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\prashant\face+hand\HandGestureRecognition\obj\Debug\Interop.WMPLib.dll
+D:\prashant\face+hand\HandGestureRecognition\obj\Debug\AxInterop.WMPLib.dll
+D:\prashant\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.ResolveComReference.cache
+D:\prashant\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+D:\prashant\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+D:\prashant\face+hand\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\prashant\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\prashant\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\prashant\face+hand\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+D:\prashant\face+hand\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+D:\prashant\face+hand\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+D:\prashant\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\prashant\face+hand\HandGestureRecognition\bin\Debug\ZedGraph.dll
+D:\prashant\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\prashant\face+hand\HandGestureRecognition\bin\Debug\ZedGraph.xml
+D:\prashant\face+hand\HandGestureRecognition\bin\Debug\Interop.WMPLib.dll
+D:\prashant\face+hand\HandGestureRecognition\bin\Debug\AxInterop.WMPLib.dll
+D:\prashant\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+D:\prashant\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Form1.resources
+D:\prashant\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.LOAD.resources
+D:\prashant\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Main.resources
+D:\prashant\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Properties.Resources.resources
+D:\prashant\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Webcam.resources
+D:\prashant\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+F:\PRASHANT\code\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+F:\PRASHANT\code\face+hand\HandGestureRecognition\obj\Debug\Interop.WMPLib.dll
+F:\PRASHANT\code\face+hand\HandGestureRecognition\obj\Debug\AxInterop.WMPLib.dll
+F:\PRASHANT\code\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.ResolveComReference.cache
+F:\PRASHANT\code\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+F:\PRASHANT\code\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+F:\PRASHANT\code\face+hand\HandGestureRecognition\bin\Debug\cvextern.dll
+F:\PRASHANT\code\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+F:\PRASHANT\code\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+F:\PRASHANT\code\face+hand\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+F:\PRASHANT\code\face+hand\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+F:\PRASHANT\code\face+hand\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+F:\PRASHANT\code\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+F:\PRASHANT\code\face+hand\HandGestureRecognition\bin\Debug\ZedGraph.dll
+F:\PRASHANT\code\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+F:\PRASHANT\code\face+hand\HandGestureRecognition\bin\Debug\ZedGraph.xml
+F:\PRASHANT\code\face+hand\HandGestureRecognition\bin\Debug\Interop.WMPLib.dll
+F:\PRASHANT\code\face+hand\HandGestureRecognition\bin\Debug\AxInterop.WMPLib.dll
+F:\PRASHANT\code\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+F:\PRASHANT\code\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Form1.resources
+F:\PRASHANT\code\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.LOAD.resources
+F:\PRASHANT\code\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Main.resources
+F:\PRASHANT\code\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Properties.Resources.resources
+F:\PRASHANT\code\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Webcam.resources
+F:\PRASHANT\code\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\Interop.WMPLib.dll
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\AxInterop.WMPLib.dll
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.ResolveComReference.cache
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\cvextern.dll
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\ZedGraph.dll
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\ZedGraph.xml
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\Interop.WMPLib.dll
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\AxInterop.WMPLib.dll
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Form1.resources
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.LOAD.resources
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Main.resources
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Properties.Resources.resources
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Webcam.resources
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+F:\PRASHANT\code\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.splash.resources
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\Interop.WMPLib.dll
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\AxInterop.WMPLib.dll
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.ResolveComReference.cache
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\cvextern.dll
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\ZedGraph.dll
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\ZedGraph.xml
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\Interop.WMPLib.dll
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\bin\Debug\AxInterop.WMPLib.dll
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Form1.resources
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.LOAD.resources
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Main.resources
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Properties.Resources.resources
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.splash.resources
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Webcam.resources
+G:\Project_2015-16\TEST_PROJECTS\LOOK\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.GenerateResource.Cache
+C:\project\Full_New\face+hand\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\project\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\project\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\project\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\project\Full_New\face+hand\HandGestureRecognition\bin\Debug\Emgu.CV.dll
+C:\project\Full_New\face+hand\HandGestureRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\project\Full_New\face+hand\HandGestureRecognition\bin\Debug\Emgu.Util.dll
+C:\project\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\project\Full_New\face+hand\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\project\Full_New\face+hand\HandGestureRecognition\bin\Debug\Interop.WMPLib.dll
+C:\project\Full_New\face+hand\HandGestureRecognition\bin\Debug\AxInterop.WMPLib.dll
+C:\project\Full_New\face+hand\HandGestureRecognition\obj\Debug\Interop.WMPLib.dll
+C:\project\Full_New\face+hand\HandGestureRecognition\obj\Debug\AxInterop.WMPLib.dll
+C:\project\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.ResolveComReference.cache
+C:\project\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Form1.resources
+C:\project\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.LOAD.resources
+C:\project\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Main.resources
+C:\project\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Properties.Resources.resources
+C:\project\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.splash.resources
+C:\project\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.Webcam.resources
+C:\project\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csproj.GenerateResource.cache
+C:\project\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.exe
+C:\project\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.pdb
+C:\project\Full_New\face+hand\HandGestureRecognition\obj\Debug\HandGestureRecognition.csprojResolveAssemblyReference.cache
